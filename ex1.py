@@ -1,0 +1,6 @@
+dictionary = {'Key1': 1,
+              'Key2': 2,
+              'Key3': 3
+}
+
+print(dictionary)
